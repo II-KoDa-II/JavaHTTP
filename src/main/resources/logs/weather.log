@@ -1,0 +1,72 @@
+00:44:17.248 [JavaFX Application Thread] ERROR o.e.w.D.E.RetrivingException - Unable to retrieve previous city data: src\main\resources\application.properties (Не удается найти указанный файл)
+00:44:42.148 [JavaFX Application Thread] ERROR o.e.w.D.E.RetrivingException - Unable to retrieve previous city data: src\main\resources\application.properties (Не удается найти указанный файл)
+00:49:20.441 [JavaFX Application Thread] INFO  o.e.w.View.WeatherViewController - Загружена информация о погоде для города: Kemerovo RU
+00:49:38.391 [JavaFX Application Thread] INFO  o.e.w.View.WeatherViewController - Загружена информация о погоде для города: Sosal PK
+00:50:41.362 [JavaFX Application Thread] INFO  o.e.w.View.WeatherViewController - Загружена информация о погоде для города: Производство и продажба на яйца СД Марвас-90-Френкеви с-ие BG
+00:54:02.657 [JavaFX Application Thread] INFO  o.e.w.View.WeatherViewController - Загружена информация о погоде для города: Производство и продажба на яйца СД Марвас-90-Френкеви с-ие BG
+01:02:42.142 [JavaFX Application Thread] ERROR o.e.w.D.E.RetrivingException - Unable to retrieve previous city data: api.openweathermap.org
+01:02:54.094 [JavaFX Application Thread] ERROR o.e.w.D.E.RetrivingException - Unable to retrieve previous city data: api.openweathermap.org
+01:03:04.148 [JavaFX Application Thread] ERROR o.e.w.D.E.RetrivingException - Unable to retrieve previous city data: api.openweathermap.org
+01:04:24.182 [JavaFX Application Thread] INFO  o.e.w.View.WeatherViewController - Загружена информация о погоде для города: Производство и продажба на яйца СД Марвас-90-Френкеви с-ие BG
+01:04:34.951 [JavaFX Application Thread] INFO  o.e.w.View.WeatherViewController - Загружена информация о погоде для города: Производство и продажба на яйца СД Марвас-90-Френкеви с-ие BG
+01:04:46.458 [JavaFX Application Thread] INFO  o.e.w.View.WeatherViewController - Загружена информация о погоде для города: Производство и продажба на яйца СД Марвас-90-Френкеви с-ие BG
+01:06:27.692 [JavaFX Application Thread] INFO  o.e.w.View.WeatherViewController - Загружена информация о погоде для города: Производство и продажба на яйца СД Марвас-90-Френкеви с-ие BG
+01:06:53.412 [JavaFX Application Thread] INFO  o.e.w.View.WeatherViewController - Загружена информация о погоде для города: Moscow RU
+01:07:01.854 [JavaFX Application Thread] ERROR o.e.w.D.E.WindDirectionException - failed to determine wind direction
+01:07:19.139 [JavaFX Application Thread] ERROR o.e.w.D.E.WindDirectionException - failed to determine wind direction
+01:07:23.627 [JavaFX Application Thread] INFO  o.e.w.View.WeatherViewController - Загружена информация о погоде для города: London CA
+01:07:27.138 [JavaFX Application Thread] ERROR o.e.w.D.E.WindDirectionException - failed to determine wind direction
+01:07:51.101 [JavaFX Application Thread] INFO  o.e.w.View.WeatherViewController - Загружена информация о погоде для города: London CA
+01:07:58.099 [JavaFX Application Thread] ERROR o.e.w.D.E.WindDirectionException - failed to determine wind direction
+01:14:38.860 [JavaFX Application Thread] ERROR o.e.w.D.E.RetrivingException - Error while retrieving data: 400
+01:14:42.515 [JavaFX Application Thread] INFO  o.e.w.View.WeatherViewController - Загружена информация о погоде для города: Кемеровский остров RU
+01:14:48.269 [JavaFX Application Thread] ERROR o.e.w.D.E.RetrivingException - Error while retrieving data: 400
+01:14:48.505 [JavaFX Application Thread] ERROR o.e.w.D.E.RetrivingException - Error while retrieving data: 400
+01:14:48.708 [JavaFX Application Thread] ERROR o.e.w.D.E.RetrivingException - Error while retrieving data: 400
+01:14:48.909 [JavaFX Application Thread] ERROR o.e.w.D.E.RetrivingException - Error while retrieving data: 400
+01:14:49.133 [JavaFX Application Thread] ERROR o.e.w.D.E.RetrivingException - Error while retrieving data: 400
+01:14:49.334 [JavaFX Application Thread] ERROR o.e.w.D.E.RetrivingException - Error while retrieving data: 400
+01:14:49.545 [JavaFX Application Thread] ERROR o.e.w.D.E.RetrivingException - Error while retrieving data: 400
+01:14:49.751 [JavaFX Application Thread] ERROR o.e.w.D.E.RetrivingException - Error while retrieving data: 400
+01:14:49.950 [JavaFX Application Thread] ERROR o.e.w.D.E.RetrivingException - Error while retrieving data: 400
+01:14:50.154 [JavaFX Application Thread] ERROR o.e.w.D.E.RetrivingException - Error while retrieving data: 400
+01:14:50.365 [JavaFX Application Thread] ERROR o.e.w.D.E.RetrivingException - Error while retrieving data: 400
+01:14:50.561 [JavaFX Application Thread] ERROR o.e.w.D.E.RetrivingException - Error while retrieving data: 400
+01:14:50.775 [JavaFX Application Thread] ERROR o.e.w.D.E.RetrivingException - Error while retrieving data: 400
+01:14:50.972 [JavaFX Application Thread] ERROR o.e.w.D.E.RetrivingException - Error while retrieving data: 400
+01:14:51.174 [JavaFX Application Thread] ERROR o.e.w.D.E.RetrivingException - Error while retrieving data: 400
+01:14:51.374 [JavaFX Application Thread] ERROR o.e.w.D.E.RetrivingException - Error while retrieving data: 400
+01:14:51.576 [JavaFX Application Thread] ERROR o.e.w.D.E.RetrivingException - Error while retrieving data: 400
+01:14:51.770 [JavaFX Application Thread] ERROR o.e.w.D.E.RetrivingException - Error while retrieving data: 400
+01:14:51.968 [JavaFX Application Thread] ERROR o.e.w.D.E.RetrivingException - Error while retrieving data: 400
+01:14:52.161 [JavaFX Application Thread] ERROR o.e.w.D.E.RetrivingException - Error while retrieving data: 400
+01:14:52.362 [JavaFX Application Thread] ERROR o.e.w.D.E.RetrivingException - Error while retrieving data: 400
+01:14:52.561 [JavaFX Application Thread] ERROR o.e.w.D.E.RetrivingException - Error while retrieving data: 400
+01:14:52.760 [JavaFX Application Thread] ERROR o.e.w.D.E.RetrivingException - Error while retrieving data: 400
+01:14:52.950 [JavaFX Application Thread] ERROR o.e.w.D.E.RetrivingException - Error while retrieving data: 400
+01:14:53.151 [JavaFX Application Thread] ERROR o.e.w.D.E.RetrivingException - Error while retrieving data: 400
+01:14:53.351 [JavaFX Application Thread] ERROR o.e.w.D.E.RetrivingException - Error while retrieving data: 400
+01:14:53.565 [JavaFX Application Thread] ERROR o.e.w.D.E.RetrivingException - Error while retrieving data: 400
+01:17:30.346 [JavaFX Application Thread] INFO  o.e.w.View.WeatherViewController - Загружена информация о погоде для города: Кемеровский остров RU
+01:17:40.508 [JavaFX Application Thread] INFO  o.e.w.View.WeatherViewController - Загружена информация о погоде для города: London GB
+01:17:45.017 [JavaFX Application Thread] INFO  o.e.w.View.WeatherViewController - Загружена информация о погоде для города: City of London GB
+01:17:47.524 [JavaFX Application Thread] INFO  o.e.w.View.WeatherViewController - Загружена информация о погоде для города: London CA
+01:17:49.159 [JavaFX Application Thread] INFO  o.e.w.View.WeatherViewController - Загружена информация о погоде для города: Chelsea GB
+01:17:50.706 [JavaFX Application Thread] INFO  o.e.w.View.WeatherViewController - Загружена информация о погоде для города: London US
+01:20:24.921 [JavaFX Application Thread] INFO  o.e.w.View.WeatherViewController - Загружена информация о погоде для города: London US
+01:20:30.931 [JavaFX Application Thread] INFO  o.e.w.View.WeatherViewController - Загружена информация о погоде для города: Kemerovo RU
+01:20:40.136 [JavaFX Application Thread] INFO  o.e.w.View.WeatherViewController - Загружена информация о погоде для города: Kemerovo RU
+01:24:22.944 [JavaFX Application Thread] INFO  o.e.w.View.WeatherViewController - Загружена информация о погоде для города: Kemerovo RU
+01:24:31.530 [JavaFX Application Thread] INFO  o.e.w.View.WeatherViewController - Загружена информация о погоде для города: London GB
+01:24:36.908 [JavaFX Application Thread] INFO  o.e.w.View.WeatherViewController - Загружена информация о погоде для города: Kemerovo RU
+01:24:49.687 [JavaFX Application Thread] INFO  o.e.w.View.WeatherViewController - Загружена информация о погоде для города: Kemerovo RU
+01:24:58.971 [JavaFX Application Thread] INFO  o.e.w.View.WeatherViewController - Загружена информация о погоде для города: Sosal PK
+00:21:50.538 [JavaFX Application Thread] INFO  o.e.w.View.WeatherViewController - Загружена информация о погоде для города: Sosal PK
+00:22:36.042 [JavaFX Application Thread] INFO  o.e.w.View.WeatherViewController - Загружена информация о погоде для города: Sosal PK
+00:24:35.148 [JavaFX Application Thread] INFO  o.e.w.View.WeatherViewController - Загружена информация о погоде для города: Sosal PK
+00:26:33.248 [JavaFX Application Thread] INFO  o.e.w.View.WeatherViewController - Загружена информация о погоде для города: Sosal PK
+00:26:59.771 [JavaFX Application Thread] INFO  o.e.w.View.WeatherViewController - Загружена информация о погоде для города: Kemerovo RU
+00:28:41.177 [JavaFX Application Thread] INFO  o.e.w.View.WeatherViewController - Загружена информация о погоде для города: Kemerovo RU
+00:29:51.682 [JavaFX Application Thread] INFO  o.e.w.View.WeatherViewController - Загружена информация о погоде для города: Kemerovo RU
+00:30:24.957 [JavaFX Application Thread] INFO  o.e.w.View.WeatherViewController - Загружена информация о погоде для города: Производство и продажба на яйца СД Марвас-90-Френкеви с-ие BG
+00:30:36.025 [JavaFX Application Thread] INFO  o.e.w.View.WeatherViewController - Загружена информация о погоде для города: Kemerovo RU

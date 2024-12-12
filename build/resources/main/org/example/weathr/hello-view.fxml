@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<VBox style="-fx-background-color: #bbbbbb" alignment="CENTER" prefHeight="559.0" prefWidth="845.0" spacing="20.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.weathr.View.WeatherViewController">
+  <padding>
+    <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+  </padding>
+  <Label text="Введите название города:">
+    <font>
+      <Font size="23.0" />
+    </font></Label>
+  <VBox prefHeight="114.0" prefWidth="390.0">
+    <children>
+      <HBox alignment="CENTER" prefHeight="0.0" prefWidth="200.0">
+        <children>
+          <TextField fx:id="sityNameField" onKeyTyped="#onSityTextInput" prefHeight="25.0" prefWidth="325.0" />
+        </children>
+      </HBox>
+      <Label fx:id="resultLabel" text="Результаты поиска:" visible="false" />
+      <ScrollPane fx:id="scrollPaneResults" prefHeight="67.0" prefWidth="796.0" />
+    </children>
+  </VBox>
+  <Label text="Погода:">
+    <font>
+      <Font size="21.0" />
+    </font>
+  </Label>
+  <HBox alignment="BOTTOM_CENTER" prefHeight="100.0" prefWidth="200.0">
+    <children>
+      <Label fx:id="sityLable" text="Город" visible="false">
+        <font>
+          <Font size="22.0" />
+        </font>
+      </Label>
+      <ImageView fx:id="mainIconView" fitHeight="43.0" fitWidth="55.0" pickOnBounds="true" preserveRatio="true" />
+    </children>
+  </HBox>
+  <HBox alignment="CENTER" prefHeight="340.0" prefWidth="805.0">
+    <children>
+      <VBox alignment="TOP_CENTER" prefHeight="9.0" prefWidth="200.0">
+        <children>
+          <Label fx:id="tempLable" text="Температура: " />
+          <Label fx:id="feelsLikeLable" text="По ощущениям: " />
+          <Label fx:id="tempMinLable" text="Мин. температура:" />
+          <Label fx:id="tempMaxLable" text="Макс. температура:" />
+        </children>
+      </VBox>
+      <VBox alignment="TOP_CENTER" nodeOrientation="RIGHT_TO_LEFT" prefHeight="272.0" prefWidth="200.0">
+        <children>
+          <Label fx:id="humidityLable" text="Влажность: " />
+          <Label fx:id="pressureLable" text="Давление: " />
+          <Label fx:id="windLable" text="Ветер:" />
+          <Label fx:id="visibilityLable" text="Облачность:" />
+          <Label fx:id="PrecipitationLable" text="Осадки:" />
+        </children>
+      </VBox>
+      <VBox alignment="TOP_CENTER" prefHeight="136.0" prefWidth="246.0">
+        <children>
+          <Label text="Прогноз на следующие 4 дня:" />
+          <ScrollPane fx:id="forecastPanel" prefHeight="140.0" prefWidth="246.0" />
+        </children>
+      </VBox>
+    </children>
+  </HBox>
+</VBox>
